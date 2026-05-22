@@ -24,7 +24,19 @@ More commands and features will be added in future updates.
 
 ---
 
-## Installation
+## Download
+
+There are currently 2 ways to download the project:
+
+### 1. Executable Version (.exe)
+
+Recommended for normal users.
+
+Just download and run the executable file.
+
+### 2. Source Code
+
+Recommended for developers and contributors.
 
 Clone the repository:
 
@@ -71,7 +83,7 @@ project/
 ## Example Usage
 
 ```bash
-root@terminal:/sys say hello world
+root@user: say hello world
 ```
 
 Output:
