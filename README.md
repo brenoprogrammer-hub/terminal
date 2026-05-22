@@ -2,55 +2,57 @@
 
 A free and open-source terminal project made with Python.
 
-> This project is currently in beta and still has limited functionality.
+> This project is still in beta, so expect bugs, unfinished systems, and limited functionality for now.
+
+---
 
 ## Features
 
-- Simple command system
+- Simple and easy-to-use command system
 - Lightweight and fast
-- Beginner-friendly structure
-- Easy to customize
-- Open-source
+- Beginner-friendly code structure
+- Easy to modify and expand
+- Open-source project
+
+---
 
 ## Current Commands
 
 | Command | Description |
 |---------|-------------|
 | `say` | Prints text in the terminal |
-| `help` | Shows command list |
-| `cred` | Shows credits |
+| `help` | Displays the command list |
+| `cred` | Shows project credits |
 
-More commands and features will be added in future updates.
+More commands and features are planned for future updates.
 
 ---
 
 ## Download
 
-There are currently 2 ways to download the project:
+There are currently 2 ways to use the project:
 
-### 1. Executable Version (.exe)
+### Executable Version
 
-Recommended for normal users.
+Recommended for users who just want to open and use the terminal quickly.
 
-Just download and run the executable file.
+### Source Code Version
 
-### 2. Source Code
-
-Recommended for developers and contributors.
+Recommended for developers or anyone interested in modifying the project.
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourname/project.git
+git clone https://github.com/brenoprogrammer-hub/project.git
 ```
 
-Enter the project folder:
+Open the folder:
 
 ```bash
 cd project
 ```
 
-Run the terminal:
+Run the project:
 
 ```bash
 python main.py
@@ -94,29 +96,30 @@ hello world
 
 ---
 
-## About
+## About The Project
 
-This project was created for:
+This project was mainly created for:
 - learning Python
 - practicing terminal systems
-- experimenting with commands
-- studying open-source projects
+- experimenting with custom commands
+- improving programming skills
+- studying open-source development
 
 ---
 
 ## Contributing
 
-Contributions, suggestions, and pull requests are welcome.
+Suggestions, improvements, and pull requests are always welcome.
 
-Feel free to fork the repository and improve the project.
+Feel free to fork the repository and experiment with the project.
 
 ---
 
-## Status
+## Project Status
 
-Project Status: **Beta**
+Current Status: **Beta**
 
-The project is still under development and may contain bugs, missing features, or unfinished systems.
+The project is still under active development, so some features may be incomplete or unstable.
 
 ---
 
